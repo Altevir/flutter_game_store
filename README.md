@@ -1,16 +1,9 @@
-# flutter_game_store
+# Flutter Game Store
+## Screenshots
+## Android
+![screenshot-1659302008702](https://user-images.githubusercontent.com/11803107/182046064-fae8de59-b435-4585-941f-edf81f220856.png)
+![screenshot-1659302022041](https://user-images.githubusercontent.com/11803107/182046073-5ee8a345-cf7f-4d33-b045-f8d2165e162e.png)
+![screenshot-1659302031023](https://user-images.githubusercontent.com/11803107/182046079-2a65e215-5aee-45bb-8cd8-c9004ecbb004.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Licença
+MIT - Consulte o arquivo LICENSE.txt
